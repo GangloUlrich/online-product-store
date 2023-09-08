@@ -23,8 +23,8 @@ Online product store is a project to create an online store of computer equipmen
 
 - clone the repository into the www or htdocs folder of your local server
 - Create a database
-- Configure database information in **wp-config.php** file
-- Start the project by putting in the browser: **localhost/online-product-store**
+- Configure database information in `wp-config.php` file
+- Start the project by putting in the browser: `localhost/online-product-store`
 
 ## ScreenShot
 
